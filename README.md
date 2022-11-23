@@ -4,7 +4,7 @@
 
 # Sobre o projeto
 
-https://juancostadev.github.io/Desafio-FrontEnd-Mentor-Pagina-QRcode/
+https://juancostadev.github.io/Desafio-FrontEnd-Mentor-Pagina-Com-Trescartoes/
 
 Uma página QRcode feita com o objetivo de praticar meus conhecimentos em HTML E CSS, alguns detalhes da pagina é que a mesma deve possuir responsividade.
 O desafio foi proposto e pode ser encontrado na página [**FrontEnd Mentor**](https://www.frontendmentor.io/solutions/responsive-qr-code-page-using-html-and-css-LHtfgKZr2z "Site do FrontEnd Mentor").
