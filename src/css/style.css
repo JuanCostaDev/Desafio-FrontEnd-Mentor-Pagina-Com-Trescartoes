@@ -1,0 +1,146 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    display: flex;
+    background-image: url(../imagens/background.png);
+    background-repeat: none;
+    background-size: cover;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.conteiner {
+    background-color: hsl(0, 0%, 95%);
+    display: flex;
+    width: 1000px;
+    height: 600px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+}
+
+.card1,
+.card2,
+.card3 {
+    box-shadow: 5px 5px 5px 1px rgb(161, 161, 161);
+    height: 40vh;
+    width: 220px;
+    display: grid;
+}
+
+.card1 {
+    background-color: hsl(31, 77%, 52%);
+    border-radius: 0.3rem 0 0 0.3rem;
+}
+
+.card2 {
+    background-color: hsl(184, 100%, 22%);
+}
+
+.card3 {
+    background-color: hsl(179, 100%, 13%);
+    border-radius: 0 0.3rem 0.3rem 0;
+}
+
+.botao1,
+.botao2,
+.botao3 {
+    height: 30px;
+    width: 100px;
+    border-radius: 2rem;
+    margin-left: 2rem;
+    cursor: pointer;
+    transition: transform 0.5s;
+    font-size: 10px;
+}
+
+.botao1 {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(31, 77%, 52%);
+
+}
+
+.botao2 {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(184, 100%, 22%);
+
+}
+
+.botao3 {
+    background-color: hsl(0, 0%, 95%);
+    color: hsl(179, 100%, 13%);
+}
+
+.botao1:hover {
+    background-color: hsl(31, 77%, 52%);
+    color: hsl(0, 0%, 95%);
+    transform: scale(1.05);
+    border: 1px solid hsl(0, 0%, 95%);
+}
+
+.botao2:hover {
+    background-color: hsl(184, 100%, 22%);
+    color: hsl(0, 0%, 95%);
+    transform: scale(1.05);
+    border: 1px solid hsl(0, 0%, 95%);
+}
+
+.botao3:hover {
+    background-color: hsl(179, 100%, 13%);
+    color: hsl(0, 0%, 95%);
+    transform: scale(1.05);
+    border: 1px solid hsl(0, 0%, 95%);
+}
+
+
+.fotos {
+    margin-left: 2rem;
+    margin-top: 30px;
+    width: 40px;
+
+}
+
+.titulos {
+    font-size: 25px;
+    margin-left: 2rem;
+    color: hsl(0, 0%, 95%);
+    font-family: 'Big Shoulders Display', cursive;
+}
+
+.conteudo {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    font-size: 11px;
+    color: hsl(0, 0%, 95%);
+
+}
+
+@media screen and (max-width:415px) {
+    .conteiner {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        padding: 30px;
+        height: 60rem;
+    }
+
+    .card1 {
+        border-radius: 0.3rem 0.3rem 0 0;
+    }
+
+    .card3 {
+        border-radius: 0 0 0.3rem 0.3rem;
+    }
+    .fotos {
+        margin-top: 2rem;
+        margin-bottom: 0rem;
+    }
+}
