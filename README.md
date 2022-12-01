@@ -8,7 +8,7 @@
 https://juancostadev.github.io/Desafio-FrontEnd-Mentor-Pagina-Com-Trescartoes/
 
 Uma página com 3 cards feita com o objetivo de praticar os meus conhecimentos em HTML e CSS, alguns detalhes da página é que a mesma deve possuir responsividade para dispositivos móveis.
-O desafio foi proposto e pode ser encontrado na página [**FrontEnd Mentor**](https://www.frontendmentor.io/solutions/responsive-qr-code-page-using-html-and-css-LHtfgKZr2z "Site do FrontEnd Mentor").
+O desafio foi proposto e pode ser encontrado na página [**FrontEnd Mentor**](https://www.frontendmentor.io/solutions/responsive-page-with-three-cards-using-html-and-css-gKPH2E9Afk "Site do FrontEnd Mentor").
 
 ## Layout mobile
 ![Mobile 1](https://github.com/JuanCostaDev/Assets/blob/main/Fotos%20Projeto%203%20Cards/Foto%203%20Cards%20Mobile.png) 
