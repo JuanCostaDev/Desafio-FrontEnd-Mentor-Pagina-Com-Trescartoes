@@ -1,6 +1,7 @@
 # Desafio FrontEnd Mentor Pagina Com 3 Cards
 
-[![NPM](https://github.com/JuanCostaDev/Desafio-FrontEnd-Mentor-Pagina-Com-Trescartoes/blob/main/LICENSE)
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/JuanCostaDev/Desafio-FrontEnd-Mentor-Pagina-Com-Trescartoes/blob/main/LICENSE) 
 
 # Sobre o projeto
 
